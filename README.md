@@ -6,11 +6,13 @@
 
 ## Market Research
 **A few questions to start with:**
-- Is this a problem people talk about or complain about? 
-- Are people seeking assistance or are actively purchasing related products/services or substitutes?  
-- How often are people searching for this or related topics? 
-- How many people have this problem? Is this number growing over time? 
 
+1. Is this a problem people talk about or complain about? 
+2. Are people seeking assistance or are actively purchasing related products/services or substitutes?  
+3. How often are people searching for this or related topics? 
+4. How many people have this problem? Is this number growing over time? 
+
+**Places to answer questions:**
 - [Google Trends](http://www.google.com/trends)
 - [Google Adwords](http://www.google.com/adwords/)
 - [Facebook](http://facebook.com)
@@ -24,9 +26,11 @@
 
 ## Competitive Research
 **Some questions to answer:**
-- Who else is operating in this space? How competitive does it appear? 
-- How large are these potential competitors (Revenue, Employees, Funding, etc.)? 
 
+1. Who else is operating in this space? How competitive does it appear? 
+2. How large are these potential competitors (Revenue, Employees, Funding, etc.)? 
+
+**Places to answer questions:**
 - [AngelList](http://angel.co)
 - [Crunchbase](http://crunchbase.com/)
 - [Gust](http://gust.com)
