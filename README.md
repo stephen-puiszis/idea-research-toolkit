@@ -16,7 +16,7 @@
 - [Google Trends](http://www.google.com/trends)
 - [Google Adwords](http://www.google.com/adwords/)
 - [Facebook](http://facebook.com)
-- [Twitter[(http://twitter.com)
+- [Twitter](http://twitter.com)
 - [LinkedIn](http://linkedin.com)
 - [YouTube](http://youtube.com)
 - [Craigslist](http://craigslist.com) 
