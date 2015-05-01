@@ -35,6 +35,7 @@
 - [AngelList](http://angel.co)
 - [Crunchbase](http://crunchbase.com/)
 - [Gust](http://gust.com)
+- [Product Hunt](http://www.producthunt.com/)
 - [Google Patent Search](https://www.google.com/?tbm=pts&gws_rd=ssl)
 - [U.S. Patent Trademark Office](http://uspto.gov)
 - Aforementioned market research sources
