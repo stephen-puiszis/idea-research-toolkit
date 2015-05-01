@@ -40,3 +40,6 @@
 - [U.S. Patent Trademark Office](http://uspto.gov)
 - Aforementioned market research sources
 
+## Channel Testing
+
+TODO - Add some channel tests to preform 
