@@ -38,6 +38,7 @@
 - [Product Hunt](http://www.producthunt.com/)
 - [Google Patent Search](https://www.google.com/?tbm=pts&gws_rd=ssl)
 - [U.S. Patent Trademark Office](http://uspto.gov)
+- [Patent Monk](https://www.patentmonk.com/patent)
 - Aforementioned market research sources
 
 ## Channel Testing
